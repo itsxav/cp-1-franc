@@ -1,4 +1,4 @@
-package itsxav.kotlin.com
+package itsxav.kotlin.com.cp1
 
 data class Answer(val number: Int, val answer: Char)
 
